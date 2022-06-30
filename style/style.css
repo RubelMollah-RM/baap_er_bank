@@ -1,0 +1,58 @@
+.section1{
+    height: 450px;
+    width: 555px;
+    background-color: gray;
+    display: flex;
+    justify-self:center;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 20px;
+    margin-top: 80px;
+}
+
+
+.login_div{
+   /* background-color: gray; */
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+   margin: 0 auto;
+}
+
+.emailField{
+    padding: 10px;
+    border-radius: 10px;
+    margin: auto;
+    width: 250px;
+}
+.passwordField{
+    padding: 10px;
+    border-radius: 10px;
+    margin: auto;
+    width: 250px;
+}
+
+.login_button{
+    padding: 15px;
+    border-radius: 10px;
+    width: 100px;
+    margin-top: 10px;
+    background-color: greenyellow;
+}
+input{
+    text-align: center;
+    padding: 10px;
+}
+
+h1{
+    font-size: 2rem;
+}
+
+.ha_ha_ha{
+    color: red;
+}
+
+body{
+    background-color: white;
+}
