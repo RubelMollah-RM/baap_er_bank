@@ -9,6 +9,7 @@
     margin: 0 auto;
     border-radius: 20px;
     margin-top: 80px;
+    box-shadow: 5px 5px 20px 15px plum;
 }
 
 
@@ -55,4 +56,21 @@ h1{
 
 body{
     background-color: white;
+}
+
+#footerSection{
+    text-align: right;
+    margin-top: 50px;
+    margin-right: 100px;
+    color: rgb(34, 32, 25);
+}
+
+#year{
+    color: red;
+}
+
+#bank_image{
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
 }
